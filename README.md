@@ -108,7 +108,7 @@ flowchart LR
 
 ---
 
-## ⚙️ Component Details & Parameters
+## Component Details & Parameters
 
 Below are the configurations defined inside `flow.json` for the principal nodes:
 
@@ -125,7 +125,7 @@ Below are the configurations defined inside `flow.json` for the principal nodes:
 
 ---
 
-## 🔒 Security Best Practices: Decoupling Secrets
+## Security Best Practices: Decoupling Secrets
 
 To prevent exposing sensitive API credentials (such as Google Gemini/OpenAI API keys) on public version control platforms like GitHub:
 
@@ -135,7 +135,7 @@ To prevent exposing sensitive API credentials (such as Google Gemini/OpenAI API 
 
 ---
 
-## 🚀 Getting Started & Setup
+## Getting Started & Setup
 
 ### Prerequisites
 
@@ -180,7 +180,7 @@ pip install langflow
 
 ---
 
-## 📤 Pushing to GitHub (Safe Guide)
+## Pushing to GitHub (Safe Guide)
 
 Since this project has been sanitized, you can push it to GitHub without worrying about leaks. Follow these exact steps:
 
